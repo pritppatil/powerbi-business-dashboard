@@ -86,3 +86,19 @@ All visuals are designed to be clean, intuitive, and stakeholder-friendly.
 - **Power Query**
 - **Star Schema Data Modeling**
 
+---
+
+## 💡 Business Value
+This dashboard enables:
+- Faster performance monitoring
+- Identification of regional and category-level trends
+- Improved operational planning
+- Clear communication of insights to non-technical stakeholders
+
+---
+
+## 👤 Author
+**Pritesh Patil**  
+Data Analyst | SQL | Power BI | Tableau | Operational Analytics
+
+
