@@ -86,6 +86,27 @@ All visuals are designed to be clean, intuitive, and stakeholder-friendly.
 - **Power Query**
 - **Star Schema Data Modeling**
 
+
+---
+
+## 📁 Repository Structure
+
+```
+powerbi-business-dashboard/
+│
+├── data/
+│ ├── Orders.csv
+│ ├── Customers.csv
+│ ├── Location.csv
+│ └── Products.csv
+│
+├── dashboard/
+│ ├── sales_dashboard.png
+│ └── sales_dashboard.pbix
+│
+└── README.md
+```
+
 ---
 
 ## 💡 Business Value
